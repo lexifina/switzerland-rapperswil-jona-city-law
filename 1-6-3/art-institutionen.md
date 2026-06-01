@@ -1,18 +1,18 @@
 # Art. Institutionen
 1 Institutionen:
 a) Parteien
-1. CVP Rapperswil-Jona;
+1. Die Mitte Rapperswil-Jona;
 2. FDP Rapperswil-Jona;
 3. GLP Rapperswil-Jona;
 4. SP Rapperswil-Jona;
 5. SVP Rapperswil-Jona;
-6. UGS Jona-Rapperswil;
-7. FOX – Forum xunde Menscheverstand;
+6.–7. …
 8. Jungfreisinnige See-Gaster.
+9. Grüne Rapperswil-Jona
 b) Quartiervereine
 1. Dorfverein Bollingen
 2. Dorfverein Wagen
-3. Quartierverein Bollingen
+3. …
 4. Quartierverein Busskirch
 5. Quartierverein Erlen
 6. Quartierverein Hanfländer
@@ -22,6 +22,7 @@ b) Quartiervereine
 10. Quartierverein Schachen
 11. Quartierverein Spitzenwies
 12. Südquartierverein
+13. Verein Stadtteil Buech / St. Dionys
 c) Weitere Institutionen
 1. Architekturforum Obersee
 2. Einkaufsziel Rapperswil-Jona
@@ -30,6 +31,9 @@ c) Weitere Institutionen
 5. Rapperswil Zürichsee Tourismus
 6. Verein- verj
 7. Altersforum
+8. Verein Gastliche Altstadt
+9. Sportrat
+10. Kulturrat
 d) Interessengemeinschaften
 1. IG Tunnel RJ-J
 2. IG Mobilität
@@ -37,4 +41,6 @@ e) Jugendrat
 f) Vertretung Migrantinnen und Migranten
 g) Fachgruppen (mit beratender Stimme)
 1. Vertretung Polizeistation Rapperswil-Jona
-2. Weitere bei Bedarf
+2. …
+h) Ortsgemeinde Rapperswil-Jona
+i) Weitere Vertretungen je nach Thema und Bedarf.
