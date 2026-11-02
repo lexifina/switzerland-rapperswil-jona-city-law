@@ -1,0 +1,31 @@
+{
+ "country": "CH-SG-RAPPERSWIL-JONA",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 64,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.1-1/versions/262",
+     "sha256": "37385efca072c3f5853ee74557bcb59d193f033b58d7a8aaaa27451e3a763a65"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 64,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.1-1/versions/297",
+     "sha256": "69fc3aa3b3cd20a9a4113302a7af65ae1b3f1ce82c9dce47444a9c268996183a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 64,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "6fdea13ceff21ef3a6a332a652e101cd18ffaa877a38110c10cb10be0f5073d9"
+    }
+   ]
+  }
+ ]
+}
