@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ch-sg",
   "repo": "https://github.com/lexifina/switzerland-rapperswil-jona-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 3 versions) from the SRS",
+  "build": "built: Gemeindeordnung and municipal enactments (90 acts, 108 versions) from the SRS",
   "language": "de",
   "sources": 1
 }

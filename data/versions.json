@@ -26,6 +26,1348 @@
      "sha256": "6fdea13ceff21ef3a6a332a652e101cd18ffaa877a38110c10cb10be0f5073d9"
     }
    ]
+  },
+  {
+   "slug": "0-1-1",
+   "short": "SRS 0.1-1",
+   "title": "Vereinbarung Zweckverband «Kindes- und Erwachsenenschutz Region Zürichsee-Linth»",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/0.1-1",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 35,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/0.1-1",
+     "sha256": "74c443a39132f0accb7ebf7065c5fe531c2677279dc8de93531480691f2b2c4a"
+    }
+   ]
+  },
+  {
+   "slug": "0-1-1-1",
+   "short": "SRS 0.1-1.1",
+   "title": "Geschäftsordnung der Kindes- und Erwachsenenschutzbehörde Linth",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/0.1-1.1",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 15,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/0.1-1.1",
+     "sha256": "53c361b76ac4d4b48ed552c67ae7ac942cc111a81cc0e68931e2441a687c6af0"
+    }
+   ]
+  },
+  {
+   "slug": "0-1-3-1",
+   "short": "SRS 0.1-3.1",
+   "title": "Geschäftsreglement der Zivilschutzkommission ZürichseeLinth",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/0.1-3.1",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 15,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/0.1-3.1",
+     "sha256": "61b7ed83253ae376091a2348612ece9a581db51a7ec4dc7fd34d035450da303f"
+    }
+   ]
+  },
+  {
+   "slug": "0-2-1",
+   "short": "SRS 0.2-1",
+   "title": "Statuten der Pensionskasse Stadt Rapperswil-Jona",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/0.2-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 11,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/0.2-1",
+     "sha256": "49724deec504f07e226280764029c75e96affd9632a396a9e967efd1a5f018ab"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-1",
+   "short": "SRS 1.3-1",
+   "title": "Gebührentarif Einbürgerungsverfahren",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.3-1",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.3-1",
+     "sha256": "c00fcbcb716e14eaa9a5b3487e81e40a7eccce13bbc6470c76370034e3158351"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Geschäftsreglement des Stadtrats",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 34,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-1/versions/34",
+     "sha256": "e802a753ce0bcb892b1c7da978e31cf1cca67a327b01903f4598bfcf72bb28eb"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 34,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "639575fd3e8edfad1b649fdf4562fb4b0601b072460c6e9d8b60fb509e3a3a08"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Reglement betreffend die Übertragung von Befugnissen des Stadtrats",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 8,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-2/versions/248",
+     "sha256": "75f15fb962e756b5543387764cb4e946fa275b48760b6b5d1c7e05d260378209"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "31dc5024d80dbf8f368484137c9e4e02250a5a37634d7ef5e21162ff0db0894d"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Richtlinien zu Organisation, Aufgaben, Arbeitsweise des Stadtforums",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-3/versions/36",
+     "sha256": "a28e96bd2a6d3bf64bdec8153b67bf3818a63e3aea993d7e6fa8d65e30c51550"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 9,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "1a4fe6c1a80281e73aa48c2e73f246bf4da01429fe53ed853952e45fcd12b81e"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-4",
+   "short": "SRS 1.6-4",
+   "title": "Reglement Kommission StadtLebensRaum 2040",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.6-4",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 18,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-4/versions/245",
+     "sha256": "9e6ac18c9ea6dc484c2cabb4525457af91949d2c799cb49d866254fcbfaf63ef"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 18,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.6-4",
+     "sha256": "ca7e2b3ba11174e0f4f53d375f20bb17cd47d06b9943ff38711746eda7ef72bd"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 68,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "f77de97ca74d24744b676995c4248e7d04a3fbbb47624d1a21f60f6b2f76812b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Weiterbildungsreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/43",
+     "sha256": "25753969d2769eaf25d547a07b074f21a9a7c76d936c63076dcdd302b57f8fe5"
+    },
+    {
+     "from": "2023-01-09",
+     "units": 16,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "5f0348bc341dadc8fe75c8d87a9c9a195574a36229b4d1d3b18eb7249744ad51"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2",
+   "short": "SRS 1.7-1.2",
+   "title": "Spesenreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-1.2",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 19,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-1.2",
+     "sha256": "2f390497da471e0f9aea680466cf33c49edf6329c6e7e5057913f04b80d583e4"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7-1.3",
+   "title": "Arbeitszeitreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-1.3",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 20,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-1.3",
+     "sha256": "1c5a22d1510e5d90bb9258a5da210edfea759bcf08614f4e8f02b0a04498c9bf"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2",
+   "short": "SRS 1.7-2",
+   "title": "Lehrpersonalreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 46,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-2/versions/115",
+     "sha256": "8beb2047233354900a313daf9300c0e3e907e4469c5ef9f33c97520a2c325fbe"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 45,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-2",
+     "sha256": "4f355d2ccf868bcee23ef846a976f7df34995175994d36e7ec3ab2fff0965d3b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-2-1",
+   "short": "SRS 1.7-2.1",
+   "title": "Spesenreglement für das Lehrpersonal",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/1.7-2.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-2.1/versions/257",
+     "sha256": "8a66c77d98b8da0ac195bd313a124ae2b4969214978d05108bb39aa6eab3fac4"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 13,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/1.7-2.1",
+     "sha256": "8a283ac9c296e2a1d04eea51c5d8c79605a2518487334ec4c01c25c48e13005e"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Reglement über die Kosten der Nachführung der amtlichen Vermessung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 2,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "8ef61faeb7daf5450a366d9ed05cee89dc2b771b86f1d75d846fee4c3b896beb"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-reglement-feb",
+   "short": "Reglement FEB",
+   "title": "Reglement über die Beiträge der Stadt Rapperswil-Jona an die familienergänzende Kinderbetreuung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.1-3",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 22,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3",
+     "sha256": "a82c87591909fca324452e07c5a298e71f02a4f7fd390fa568b7727a1d865342"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-1",
+   "short": "SRS 4.1-3.1",
+   "title": "Ausführungsbestimmungen zum Reglement über die Beiträge der Stadt Rapperswil-Jona an die familienergänzende Kinderbetreuung - Städtische Beiträge Kindertagesstättenbetreuung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.1-3.1",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3.1",
+     "sha256": "13bcdead66faa9f2223041b18862d6621b97f2c4aab1a1f8c6880030fe62b13c"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-2",
+   "short": "SRS 4.1-3.2",
+   "title": "Ausführungsbestimmungen zum Reglement über die Beiträge der Stadt Rapperswil-Jona an die familienergänzende Kinderbetreuung - Städtische Tarife - Unterrichtsergänzende Betreuung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.1-3.2",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3.2",
+     "sha256": "567ebb51f293842947b9ce1a951d5bfd4f47e1b88c3e38e7519f78c831882e7b"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-3",
+   "short": "SRS 4.1-3.3",
+   "title": "Ausführungsbestimmungen zum Reglement über die Beiträge der Stadt Rapperswil-Jona an die familienergänzende Kinderbetreuung – Städtische Beiträge Tagesfamilienbetreuung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.1-3.3",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3.3/versions/378",
+     "sha256": "023accb9e64dfc00f65117986cc6e9a46ad2f67c0d6d7dff10f56dfa6b8b93cf"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3.3",
+     "sha256": "a141a511a4f6419a841c92465fe04322102fd18a96156433feb722f97c304dda"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-4-spielgruppen-und-vorkindergarten",
+   "short": "Spielgruppen und Vorkindergarten",
+   "title": "Ausführungsbestimmungen zum Reglement über die Beiträge der Stadt Rapperswil-Jona an die familienergänzende Kinderbetreuung - Städtische Beiträge modulare Betreuung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.1-3.4",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.1-3.4",
+     "sha256": "e2549010a85f27b94e1a5bd329b4066c79ca57ceef07e88ac671ce5254a63db3"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Schulordnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 34,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "cb8f46ed4da9fc36612d2fcca0af0b87fe25f56ce40514c11c8f4dbf51ebc0d4"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-1",
+   "short": "SRS 4.2-1.1",
+   "title": "Schulleitungsreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-1.1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 14,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-1.1",
+     "sha256": "81f901e00a62738f1ad955ecb771bc7151c6eafe4347483e8ebbc97bdf0aaf59"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-2",
+   "short": "SRS 4.2-1.2",
+   "title": "Ausführungsbestimmungen zum Promotions- und Übertrittsreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-1.2",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 19,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-1.2",
+     "sha256": "1a99935e35e7067253653c62f7c1556553b13db7a15d94a41106eef944b9d035"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-3",
+   "short": "SRS 4.2-1.3",
+   "title": "Disziplinarordnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-1.3",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 17,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-1.3",
+     "sha256": "b2a06aab1cfd28b682840db3d7dd00dcce3bb242f39c3e4c34b94a406430ca24"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-4",
+   "short": "SRS 4.2-1.4",
+   "title": "Absenzen-, Urlaubs- und Dispensationsreglement für Schülerinnen und Schüler",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-1.4",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 25,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-1.4",
+     "sha256": "71650c2edcb8d8106e72990fb73ec5e95ea7d7f2c9195d476dc11560f11b0425"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Geschäftsreglement für den Schulrat",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 37,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "145ae44c0d4c7196d676faaa8eb7508beb7ae7e466c80af79aa05251ad970535"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Richtlinien für besondere Unterrichtswochen, Sonderveranstaltungen, Schulreisen und Exkursionen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 89,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-3/versions/264",
+     "sha256": "f5f0020579f10e0d03326f96b8bdbccff07ba47c5e5a5d8f92a3769c2b66c09a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 89,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "7999db3a1d5b3d568aa2e227c0d3bf71a9b2551c2af03ad3a581587390c555fb"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-4",
+   "short": "SRS 4.2-4",
+   "title": "Schulbesuchsvereinbarung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.2-4",
+   "versions": [
+    {
+     "from": "2008-06-27",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.2-4",
+     "sha256": "098c6d20c62df1210fc59976d9c25c237a45ce5eda8b07f65db1a65f233d09a5"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Bestimmungen zur Führung und Organisation der Musikschule Rapperswil-Jona",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 27,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.3-1/versions/89",
+     "sha256": "1971884bc77f33319c5b7f79915df3ed9828a9dce44fd7e6feef5e75d8b7773c"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 26,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "45cd0768a739eb90f50fe819097b39ae6bfc5f96a5dfeb33bf2a225151e4b458"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 38,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-1/versions/51",
+     "sha256": "7e386221b83016a0f07109920f8f4bbe38bcb3b570ff7e644474f0fd1acfedef"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 37,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "6bbcfe863eee540130527d21b1eaced6e53933930420235a837709d0a7ff34ab"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-1",
+   "short": "SRS 5.1-1.1",
+   "title": "Vollzugsreglement über die Video-Überwachung auf öffentlichem Grund",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.1-1.1",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 9,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-1.1",
+     "sha256": "d17b634c4984df889596dce8ac76ea113e8f732ac77058b9abd5c5db603e33b9"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-2",
+   "short": "SRS 5.1-1.2",
+   "title": "Nutzung öffentlicher Raum für Aussenwirtschaften, Ausführungsbestimmungen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.1-1.2",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 13,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-1.2",
+     "sha256": "fcadc7dbc72a3a770357b78939d3d53bd92d04893af175852e2d05527f46bfe8"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Immissionsschutzreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 22,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "af662f370c1281208cf0bbd6d46c2e849bfcdd2e31ab9ab62f0365ecb2f60ca6"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-3",
+   "short": "SRS 5.1-3",
+   "title": "Reglement über Fundsachen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.1-3",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.1-3",
+     "sha256": "b0f6b988806034d0416f240351e085196ca11cd6ab046105addef4156895974e"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 27,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "52dcad508ab233a1a4598ce2b0aab4750e38144e28cd199982dd634eb2dfbd24"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Tarif und Entschädigungen zum Feuerwehrreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "11add9676e36a275cc2fb70525ff55e2ecc83397c5e91961df2db4da6e0ccb9c"
+    }
+   ]
+  },
+  {
+   "slug": "5-6-1",
+   "short": "SRS 5.6-1",
+   "title": "Reglement über den Seerettungsdienst",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.6-1",
+   "versions": [
+    {
+     "from": "1973-03-01",
+     "units": 25,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.6-1",
+     "sha256": "b9addd6c9d3ea8aefeaea0084b79328f626e8408391f01e4e37704f79640379d"
+    }
+   ]
+  },
+  {
+   "slug": "5-6-1-1",
+   "short": "SRS 5.6-1.1",
+   "title": "Tarif für den Seerettungsdienst",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/5.6-1.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/5.6-1.1",
+     "sha256": "113fbc93eae2abad5f6bc8b5c2c0a0a5f065cea016d23e79586d8772cb455d08"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-2",
+   "short": "SRS 6.1-2",
+   "title": "Reglement über die Reserve Werterhalt Finanzvermögen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.1-2",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 9,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.1-2",
+     "sha256": "8e0b4b6adc0b9d085d3fea173ceec74dd207a95c071f69a613e96ad54165e6aa"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-3",
+   "short": "SRS 6.1-3",
+   "title": "Reglement über die Abgabe von stadteigenen Grundstücken",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.1-3",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.1-3",
+     "sha256": "131da9babf86f0d2c23eeb054f14c5c69e2d9a1811f5dc603d7d3edf60fb0911"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Gebührentarif für die Dienstleistungen des Einwohneramts",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "5e365637d4a414a7630d533a6cc222cc6952a45fd2790f70ab57a94cfce1e623"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.4-1/versions/423",
+     "sha256": "6b0c1dd2f611f26d63f1a931f504e944e116d958d24510b2abb5a7d1929faa11"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Reglement für die Benützung des Stadtsaals KREUZ",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2008-02-18",
+     "units": 28,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "471d33f963735725bc4a8540abd31428b290f7abc84ba707330826801f0edee2"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-1",
+   "short": "SRS 6.6-1.1",
+   "title": "Saalbenützungsordnung für den Stadtsaal KREUZ",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-1.1",
+   "versions": [
+    {
+     "from": "2008-02-18",
+     "units": 16,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-1.1",
+     "sha256": "19eaa7a498c27851500b24df9285ebc4acc09424a7b0e104345b73e0cdf36573"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Reglement über die Benützung von Schulräumen und ‑aussenanlagen durch die Öffentlichkeit, Vereine und andere Organisationen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 20,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "ea6af96336a6f9cedcb0e8d3290798dc80d6153019d207a11b2e97d34cf24215"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2-1",
+   "short": "SRS 6.6-2.1",
+   "title": "Tarif für die Benützung der Schulräume und ‑aussenanlagen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-2.1",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 3,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-2.1",
+     "sha256": "f4a8dcd952f1eb5575eb05147ac564f8d93e03e20e19d8cd3ee69b841c40fc28"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Reglement über die Organisation und Benützung der Sporthalle Grünfeld",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 27,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "be424904ab5eb6a06d63af588bc39d06bf0b016d7862f75211648388e153506f"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Reglement über die Benützung der Turnhallen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 29,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "ab1cead392e674ca2f457472a1abc44c0961ecde981072185b5f540c61ae1696"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-5",
+   "short": "SRS 6.6-5",
+   "title": "Reglement über die Organisation und Benützung der Aussen-Sportanlagen Grünfeld",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-5",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 27,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-5",
+     "sha256": "53a9cdeca811e44e9db3fa85fc7b1a4cf90c4220339d757ca7b074135fe0c65d"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-6",
+   "short": "SRS 6.6-6",
+   "title": "Reglement über die Benützung der Eisanlagen Lido",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-6",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 33,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-6",
+     "sha256": "ef64b1fa94c1e38d5aa0c877230ce609f1681c213d97821d067d6633ae797081"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-7",
+   "short": "SRS 6.6-7",
+   "title": "Reglement über die Benützung der Freibäder",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-7",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 12,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-7",
+     "sha256": "d082368f2262710d6dea01b30ab73748028058de231e26b8ccb0ead7734c16eb"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-8",
+   "short": "SRS 6.6-8",
+   "title": "Reglement über die Nutzung der Lehrschwimmbäder (Hallenbäder)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-8",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 18,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-8/versions/110",
+     "sha256": "7e6efce60978f21ad66446bb22b83ed4a71c4844374b1ad5b14a0d439960c339"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 17,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-8",
+     "sha256": "c7e71c35c195ad7549adf9358a3148984928ea70ba4ef532e91c77ee8452275c"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-9",
+   "short": "SRS 6.6-9",
+   "title": "Reglement über die Organisation und Benützung des Wassersportzentrums für Kanu- und Rudersport",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-9",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 24,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-9",
+     "sha256": "1f1fcd98b630d8237ad7693725f7c5c1d05f30254e049f863ef886ebead65f20"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-10",
+   "short": "SRS 6.6-10",
+   "title": "Reglement für die Benützung der Schiessanlage Grunau",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/6.6-10",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 14,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/6.6-10",
+     "sha256": "d0703ad16d93d8a3454ee4b71ed9276a115cea06cc092f58f0edf883876fe45e"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Baureglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 31,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "e5ad095514cde4b5ae0bbcce46f53ca6e64ac84ec8a3c082a071027db0630a1f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-1",
+   "short": "SRS 7.1-1.1",
+   "title": "Gebührentarif für das Bauwesen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-1.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 12,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-1.1",
+     "sha256": "f381bd870b08e6883f2a4cc3ac1ce49b307745d92eab1a2472c55d30474cda18"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Altstadtschutz-Verordnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2017-08-21",
+     "units": 25,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "25a8a0e9a3b159ac87923dd244fd86e2b5bff788549723f249aba192fe6e517b"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Hanfländer» (Wasserversorgung der Stadt Rapperswil)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 41,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "2a8d7d8c3afef34d5503bf9da02239d79d88f02c4bf9b3de6d739673acda7cfe"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Wagen» (Eigentum der Wasserversorgung Rüti ZH)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "2000-05-04",
+     "units": 35,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "5e0da8a222b8d84c2dcb88de82f7453d110e0d962a02b221502676e9192a69d6"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-5",
+   "short": "SRS 7.1-5",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Hessenhof» (Versuchsbrunnen)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-5",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 41,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-5",
+     "sha256": "41010fbfb7b16921ec048248f277fed036c0e28b4e3a1b40ca0e732394505b05"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-6",
+   "short": "SRS 7.1-6",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Busskirch» (Eigentum der Wasserversorgung Rapperswil)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-6",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 40,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-6",
+     "sha256": "e6688b4ba4c7ac19fa479099db77d3a3150753e1c6ebc5c64a1399a5a2f22048"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-7",
+   "short": "SRS 7.1-7",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Tägernau»",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-7",
+   "versions": [
+    {
+     "from": "2012-07-18",
+     "units": 35,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-7",
+     "sha256": "cef6bf529e62b7ac0aa6c78d831ff8bcf5a58a876749641f312a769bd764bf7e"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-8",
+   "short": "SRS 7.1-8",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Joneren» (Eigentum der Wasserversorgung Eschenbach)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-8",
+   "versions": [
+    {
+     "from": "1997-05-14",
+     "units": 37,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-8",
+     "sha256": "e19588a338e4dcbb1a9e0bb1436569a70a06fbcda73519433a27c15f828fe403"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-9",
+   "short": "SRS 7.1-9",
+   "title": "Schutzzonenreglement für die Grundwasserfassung «Grünfeld» (Eigentum der Wasserversorgung Jona)",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-9",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 42,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-9",
+     "sha256": "505fd12c42ac5f8201aa99a316ebebffeba8b74fc629ce54480befd884ea417a"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-10",
+   "short": "SRS 7.1-10",
+   "title": "Parkplatzbedarfs-Reglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.1-10",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 26,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.1-10",
+     "sha256": "32d87b03a9fe15d0ba45cc77494d363dfd1a4cea000d6c5c79cbbef5b24cc071"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Natur- und Denkmalschutzverordnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 36,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "8845d40e75b623e399056a5cdbe40a1cf7a7554f67403fa592fa3e8405ea5e2f"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Reglement über Luftreinhaltemassnahmen bei Feuerungen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-2/versions/277",
+     "sha256": "099b270e0052882eb8083483860b97a938dce9693fc3522949f5e1c0fbf36e87"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "59260056c730e1f1adf6c9fbca4a9b630f9592ac33fe97002a3a13bbb0a96224"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2-1",
+   "short": "SRS 7.3-2.1",
+   "title": "Gebührentarif für Luftreinhaltemassnahmen bei Öl- und Gasfeuerungen sowie für Holzfeuerungskontrollen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.3-2.1",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-2.1/versions/279",
+     "sha256": "46d776ad31f06c43d231ac6e5fb9c0f17f794208aa689537de5d9acd5d3724fc"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-2.1",
+     "sha256": "e7876acc1a8ec634dc2dfe295c7f97928c69db8d87304ac845a2ef6abc2cc3dd"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-4",
+   "short": "SRS 7.3-4",
+   "title": "Reglement Förderprogramm Ersatz von fossilen Heizungen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.3-4",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-4",
+     "sha256": "b237b430597d3a547f8c206808a23102385c94b5c56219bd4518807e37f31c90"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-4-1",
+   "short": "SRS 7.3-4.1",
+   "title": "Vollzugsvorschriften Förderprogramm Ersatz von fossilen Heizungen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.3-4.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-4.1/versions/288",
+     "sha256": "c1b9ef3a98ad6c482668523a5570da609c38ecc36946d377e4ccc8f6960db66a"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 14,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.3-4.1",
+     "sha256": "9986b15e4cb7f4e676e7a045f0f772826b4639b9d0b4a72b95b2e654ffb86476"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Reglement über die Wasserversorgung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 15,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "25aaa5c0958bf0c810c3169c898bcf61fe9063f7e0b0a139b757da73f0a7b98b"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1",
+   "short": "SRS 7.4.3-1.1",
+   "title": "Beiträge und Gebühren der Wasserversorgung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 22,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "aa62e69a03b5aaf23336db7f8296360574afb740936b2eec993e97286dbdd85d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2011-12-01",
+     "units": 47,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "ad25d02f5da9db4545c132d2e0a077dacb27858195285c8ffde015669de018a1"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Reglement über die Abfallentsorgung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2009-08-12",
+     "units": 38,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "f9965c72a39bd5924b4de9a07f9a3afffa1436b1e635cbd39099721823233fd2"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Gebührentarif zum Abfallreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "ec601645031d984c3b7648c117a8015c2a321f0c553845fdfd8117f8ac8ddff3"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Parkierungs- und Parkgebühren-Reglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2009-08-13",
+     "units": 24,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "2d9db822a20cefe273128c7b1e1f0030364dc0378956239be574f49fa82dcc48"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2-hafenordnung",
+   "short": "Hafenordnung",
+   "title": "Verordnung über die Hafenanlagen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 22,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "c2c1553efb6f71b854d23037913e7a36cff7db487bf19dcb692dd0900689e06b"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3-grabenordnung",
+   "short": "Grabenordnung",
+   "title": "Ausführungsbestimmungen bei Belagsaufbrüchen und Aufgrabungen auf dem Gemeindegebiet",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/7.7-3",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 32,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/7.7-3",
+     "sha256": "b90dbdcba5f659b898d955dc2f9b80df229d16e95bec87937cbe64b169d1c7ff"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 46,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "2f267713301d69e7b096698febbe706ac45bd662d34ed32acc87a329ba38296b"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Gebührentarif betreffend die Übernahme von Todesfallkosten",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 11,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "cf3070c8920f8e3d3fdd60893f447af4ed8fdab2344aae31f7c3586542d04c7c"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Reglement Jugendrat",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "ef875067a841a09f395259634302ca5505a18551959102d1ffe1f4790cc0f008"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Reglement über die stationären Einrichtungen im Altersbereich",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 28,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "af7e2b976bef9f30df8deb4870f766015afb80e27d21e90dc92b9273434c5a02"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Reglement über den Fonds zur Finanzierung der Rückstellungskosten Zeitvorsorgemodell St. Gallen",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2021-05-09",
+     "units": 9,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "4f594c7d6d389d7f6227a45c49fa0cae3d47b369aada19e897ffe79cddfab5d9"
+    }
+   ]
+  },
+  {
+   "slug": "8-8-1",
+   "short": "SRS 8.8-1",
+   "title": "Reglement zur Förderung von preisgünstigem Wohnraum",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/8.8-1",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 15,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/8.8-1",
+     "sha256": "d30c1a486e6d72751824991c15c2ebf079ebcbdff8a6b4865ec2e63ad4f8e8e1"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Kurtaxenreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 23,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "2d21af2d6db26c213257c934b8d88512c66a690ebe5009b5b048f01f2181be6f"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1-1",
+   "short": "SRS 9.4-1.1",
+   "title": "Ausführungsbestimmungen zum Kurtaxenreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/9.4-1.1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 5,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/9.4-1.1",
+     "sha256": "843aa68e21b43cade285b489cc9a0c8c5e9b48550531f5452ed182e7207439c8"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Reglement über Ruhetag und Ladenöffnung",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 6,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "bcebabef5caa3a5b8fd8641a5aaf8553c1740991805f3daa85aaa8c39db623cd"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2",
+   "short": "SRS 9.5-2",
+   "title": "Gastwirtschaftsreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "8c296d1f1a0930e65e5e6a3f66ea95a66e4f8f38fb17b3b56d6c1551c410ff21"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2-1",
+   "short": "SRS 9.5-2.1",
+   "title": "Gebührentarif zum Gastwirtschaftsreglement",
+   "url": "https://rapperswil-jona.tlex.ch/app/de/texts_of_law/9.5-2.1",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 10,
+     "source_url": "https://rapperswil-jona.tlex.ch/api/de/texts_of_law/9.5-2.1",
+     "sha256": "315201ff57eb360dd776a4b2258758b62fb0116ed9117ec438ec8de8f7288d7b"
+    }
+   ]
   }
  ]
 }
