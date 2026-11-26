@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Rapperswil Jona: systematic collection (rapperswil-jona.tlex.ch)](https://rapperswil-jona.tlex.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-25 07:57 UTC | watched |
+| [Rapperswil Jona: systematic collection (rapperswil-jona.tlex.ch)](https://rapperswil-jona.tlex.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-26 06:51 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

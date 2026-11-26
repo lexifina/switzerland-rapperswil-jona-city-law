@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:28:24Z",
+ "generated": "2026-11-26T07:19:49Z",
  "latest": {
   "lexwork-rapperswil-jona-city|switzerland/st-gallen/rapperswil-jona/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 16,
+    "checked": 17,
     "current": 90,
     "gone": 0,
     "held": 90,
@@ -23,26 +23,26 @@
     "repo": 90,
     "source_in_scope": 90
    },
-   "check_id": "ch-lexwork-rapperswil-jona-city-20261125T075709Z",
+   "check_id": "ch-lexwork-rapperswil-jona-city-20261126T065124Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/rapperswil-jona/acts",
    "error": null,
-   "finished": "2026-11-25T07:57:53Z",
+   "finished": "2026-11-26T06:52:13Z",
    "flags": [
     {
-     "detail": "4 of 20 texts differ from the source",
+     "detail": "4 of 21 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 6,
-   "note": "rapperswil-jona.tlex.ch: index of 95 acts (95 in force); held 90; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 5 published only as PDF; 16 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "gap": 5,
+   "note": "rapperswil-jona.tlex.ch: index of 95 acts (95 in force); held 90; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 5 published only as PDF; 17 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 41,
+   "requests": 44,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "95 entries, 95 in force (rapperswil-jona.tlex.ch)",
    "source": "lexwork-rapperswil-jona-city",
-   "started": "2026-11-25T07:57:09Z",
+   "started": "2026-11-26T06:51:24Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -73,12 +73,12 @@
      "1.7-1.2 (1-7-1-2): 2022-06-07"
     ],
     "held": 90,
-    "method": "each act compared this check (16 of 90: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from rapperswil-jona.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (17 of 90: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from rapperswil-jona.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 16,
-    "versions_checked": 20,
+    "swept": 17,
+    "versions_checked": 21,
     "versions_differ": 4
    }
   }
