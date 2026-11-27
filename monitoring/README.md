@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Rapperswil Jona: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 06:52 UTC, Rapperswil Jona: Systematische Sammlung (rapperswil-jona.tlex.ch): 44 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 5 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
+**Letzte Prüfung:** 2026-11-27 06:50 UTC, Rapperswil Jona: Systematische Sammlung (rapperswil-jona.tlex.ch): 37 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 6 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Rapperswil Jona: Systematische Sammlung (rapperswil-jona.tlex.ch)](https://rapperswil-jona.tlex.ch/) | `<act>/` | täglich | 2026-11-26 06:52 UTC | keine Änderung | beobachtet |
+| [Rapperswil Jona: Systematische Sammlung (rapperswil-jona.tlex.ch)](https://rapperswil-jona.tlex.ch/) | `<act>/` | täglich | 2026-11-27 06:50 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 06:49](checks/2026-11.md#ch-lexwork-rapperswil-jona-city-20261127t064941z) | lexwork-rapperswil-jona-city | 37 | 0 | 0 | 0 | 6 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-26 06:51](checks/2026-11.md#ch-lexwork-rapperswil-jona-city-20261126t065124z) | lexwork-rapperswil-jona-city | 44 | 0 | 0 | 0 | 5 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-25 07:57](checks/2026-11.md#ch-lexwork-rapperswil-jona-city-20261125t075709z) | lexwork-rapperswil-jona-city | 41 | 0 | 0 | 0 | 6 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-24 12:15](checks/2026-11.md#ch-lexwork-rapperswil-jona-city-20261124t121549z) | lexwork-rapperswil-jona-city | 48 | 5 | 0 | 0 | 5 (0) | Änderungen gefunden `verify-differ` | — |
