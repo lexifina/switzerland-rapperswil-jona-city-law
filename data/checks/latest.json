@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:13:44Z",
+ "generated": "2026-11-28T08:36:06Z",
  "latest": {
   "lexwork-rapperswil-jona-city|switzerland/st-gallen/rapperswil-jona/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,18 +23,18 @@
     "repo": 90,
     "source_in_scope": 90
    },
-   "check_id": "ch-lexwork-rapperswil-jona-city-20261127T064941Z",
+   "check_id": "ch-lexwork-rapperswil-jona-city-20261128T081227Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/rapperswil-jona/acts",
    "error": null,
-   "finished": "2026-11-27T06:50:22Z",
+   "finished": "2026-11-28T08:13:09Z",
    "flags": [
     {
-     "detail": "4 of 18 texts differ from the source",
+     "detail": "4 of 19 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 6,
+   "gap": 5,
    "note": "rapperswil-jona.tlex.ch: index of 95 acts (95 in force); held 90; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 5 published only as PDF; 17 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 37,
+   "requests": 39,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "95 entries, 95 in force (rapperswil-jona.tlex.ch)",
    "source": "lexwork-rapperswil-jona-city",
-   "started": "2026-11-27T06:49:41Z",
+   "started": "2026-11-28T08:12:27Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -78,7 +78,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 17,
-    "versions_checked": 18,
+    "versions_checked": 19,
     "versions_differ": 4
    }
   }
